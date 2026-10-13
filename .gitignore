@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Voice model caches (large, regenerable)
+voiceforge_cache/
+*.onnx
+*.pt
+*.safetensors
+*.ckpt
+
+# Generated audiobooks
+output/
+exports/
+*.m4b
+*.mp3
+*.wav
+*.ogg
+*.flac
+
+# Project metadata
+.voiceforge_project.json
+*.vfp
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
