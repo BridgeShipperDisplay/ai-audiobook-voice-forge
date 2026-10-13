@@ -1,0 +1,1 @@
+"""Long-lived services: engine loading, model fetch, project persistence."""
