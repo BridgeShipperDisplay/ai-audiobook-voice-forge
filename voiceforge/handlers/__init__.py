@@ -1,0 +1,1 @@
+"""Feature handlers bridging core pipeline to engines and output formats."""
